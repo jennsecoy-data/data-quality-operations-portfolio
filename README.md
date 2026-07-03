@@ -19,6 +19,12 @@ This portfolio includes sample work demonstrating data quality review, records m
 - Timesheet compliance checklist
 - KPI update writing samples
 
+- ## Portfolio Samples
+
+- [Monthly Records Management & Document Tracking Log](monthly-records-management-tracking-log.pdf)
+- [Weekly Timesheet Compliance Checklist & Review Summary](weekly-timesheet-compliance-checklist-review-summary.pdf)
+- [Weekly Timesheet Compliance Report](weekly-timesheet-compliance-report.pdf)
+
 ## Tools & Skills Demonstrated
 
 - Microsoft Excel
