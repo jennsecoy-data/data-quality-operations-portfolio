@@ -1,6 +1,6 @@
 # Data Quality & Operations Portfolio
 
-This portfolio includes sample work demonstrating data quality review, records management, compliance tracking, KPI reporting, documentation review, and operations quality assurance.
+This portfolio includes sample projects demonstrating data quality review, records management, compliance tracking, KPI reporting, documentation review, discrepancy identification, and operations quality assurance.
 
 ## Portfolio Focus
 
@@ -19,7 +19,7 @@ This portfolio includes sample work demonstrating data quality review, records m
 - Timesheet compliance checklist
 - KPI update writing samples
 
-- ## Portfolio Samples
+## Portfolio Samples
 
 - [Monthly Records Management & Document Tracking Log](monthly-records-management-tracking-log.pdf)
 - [Weekly Timesheet Compliance Checklist & Review Summary](weekly-timesheet-compliance-checklist-review-summary.pdf)
