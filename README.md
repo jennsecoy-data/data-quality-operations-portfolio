@@ -1,76 +1,63 @@
 # Data Quality & Operations Portfolio
 
-This repository contains sample portfolio materials for data quality review, records management, documentation tracking, compliance review, KPI reporting, and operations quality assurance.
+This repository contains sample portfolio materials for data quality review, records management, compliance tracking, KPI reporting, issue tracking, and operations quality assurance.
 
-The purpose of this portfolio is to demonstrate practical skills in reviewing information for accuracy, completeness, consistency, documentation quality, and process improvement.
+These samples are fictional and were created to demonstrate how I review information for accuracy, completeness, consistency, documentation quality, and follow-up needs.
 
 ## Portfolio Focus
 
 This is a professional portfolio repository, not a software development project.
 
-The samples in this repository are designed to show work that may be used in roles such as:
+The samples are designed to support roles such as:
 
 - Data Quality Specialist
 - Documentation Review Specialist
 - Records Management Specialist
 - Quality Assurance Specialist
 - Operations Support Specialist
-- Compliance Review Support
 - Data Verification Specialist
 - Customer Support QA
+- Compliance Review Support
 
-## Core Skills Demonstrated
+## Samples Included
 
-- Data quality review
-- Records management
-- Documentation tracking
-- Compliance checklist review
-- KPI reporting
-- Data verification
-- Discrepancy identification
-- Error tracking
-- Workflow organization
-- Written status updates
-- Process improvement recommendations
-- Professional written communication
+| File | Purpose |
+|---|---|
+| `monthly-records-management-tracking-log.pdf` | Sample records management and document tracking log |
+| `weekly-timesheet-compliance-checklist-review-summary.pdf` | Sample checklist-based compliance review summary |
+| `weekly-timesheet-compliance-report.pdf` | Sample weekly compliance report |
+| `sample-records-tracking-log.csv` | Sample records tracking dataset |
+| `sample-kpi-tracker.csv` | Sample KPI tracking dataset |
+| `sample-issue-log.csv` | Sample QA issue tracking log |
+| `kpi-update-writing-sample.md` | Sample written KPI update |
 
-## Portfolio Samples
+## Sample Descriptions
 
 ### Monthly Records Management Tracking Log
-
-File: `monthly-records-management-tracking-log.pdf`
 
 This sample demonstrates how records can be tracked, reviewed, and organized for completeness, accuracy, status updates, and follow-up needs.
 
 Skills shown:
 
 - Records tracking
-- Documentation accuracy
+- Documentation review
 - Status review
 - Follow-up organization
 - Data quality review
 
----
-
 ### Weekly Timesheet Compliance Checklist Review
 
-File: `weekly-timesheet-compliance-checklist-review-summary.pdf`
-
-This sample demonstrates how checklist-based review can be used to identify missing information, incomplete entries, compliance concerns, and follow-up actions.
+This sample demonstrates how checklist-based review can identify missing information, incomplete entries, compliance concerns, and follow-up actions.
 
 Skills shown:
 
 - Compliance checklist review
 - Documentation review
 - Issue identification
-- Written review summary
+- Written review summaries
 - Process improvement notes
 
----
-
 ### Weekly Timesheet Compliance Report
-
-File: `weekly-timesheet-compliance-report.pdf`
 
 This sample demonstrates how weekly compliance findings can be summarized in a clear report format, including review results, exceptions, patterns, and recommended next steps.
 
@@ -78,46 +65,93 @@ Skills shown:
 
 - Compliance reporting
 - Exception tracking
-- KPI-style summary writing
 - Records accuracy review
 - Operations support documentation
+- KPI-style summary writing
 
----
+### Sample Records Tracking Log
+
+This CSV sample demonstrates how records can be reviewed for required fields, issue status, follow-up needs, and final review status.
+
+Skills shown:
+
+- Records accuracy
+- Documentation completeness
+- Issue tracking
+- Follow-up status tracking
+- Final review documentation
+
+### Sample KPI Tracker
+
+This CSV sample demonstrates how weekly quality, compliance, documentation, and follow-up metrics can be tracked in a simple KPI format.
+
+Skills shown:
+
+- KPI tracking
+- Records accuracy review
+- Documentation completeness tracking
+- Compliance monitoring
+- Repeated issue monitoring
+
+### Sample Issue Log
+
+This CSV sample demonstrates how QA issues can be categorized, assigned severity, documented with recommended actions, and tracked through review status.
+
+Skills shown:
+
+- QA issue tracking
+- Severity assessment
+- Recommended action writing
+- Compliance exception tracking
+- Review status documentation
 
 ### KPI Update Writing Sample
 
-File: `kpi-update-writing-sample.md`
-
-This sample demonstrates how quality, compliance, records accuracy, and workflow performance updates can be summarized clearly for a team, lead, or manager.
+This writing sample demonstrates how quality, compliance, records accuracy, and workflow performance updates can be summarized clearly for a team, lead, or manager.
 
 Skills shown:
 
 - KPI reporting
 - Written status updates
-- Quality trend summary
+- Quality trend summaries
 - Process improvement recommendations
-- Clear business communication
+- Professional written communication
 
-## Sample Review Areas
+## Core Skills Demonstrated
 
-These portfolio samples reflect review work involving:
+- Data quality review
+- Records management
+- Documentation tracking
+- Compliance review
+- KPI reporting
+- Data verification
+- Discrepancy identification
+- Issue tracking
+- Workflow organization
+- Written status updates
+- Process improvement recommendations
+- Professional written communication
 
-- Are records complete?
-- Are required fields filled in?
-- Do entries match the expected format?
-- Are dates, names, status notes, and supporting details accurate?
-- Are there missing or inconsistent entries?
+## Review Areas Represented
+
+These samples reflect review work involving questions such as:
+
+- Are required fields complete?
+- Are records accurate and consistent?
+- Are dates, names, status notes, and supporting details correct?
 - Are exceptions documented clearly?
+- Are follow-up actions tracked?
 - Are repeated issues identified?
-- Are recommended next steps easy to understand?
+- Are findings summarized clearly for review?
 
 ## Tools and Workflows Represented
 
-These samples reflect work that may involve:
+These samples reflect workflows involving:
 
 - Microsoft Excel
 - Google Sheets
 - PDF review
+- CSV files
 - Records tracking logs
 - Compliance checklists
 - KPI summaries
@@ -138,23 +172,11 @@ A typical review process includes:
 6. Summarize findings in a report or update.
 7. Recommend process improvements when repeated issues appear.
 
-## Skills Summary
-
-This repository demonstrates my ability to:
-
-- Review information carefully
-- Identify errors and inconsistencies
-- Track documentation and records
-- Summarize findings clearly
-- Communicate follow-up needs
-- Support accurate reporting
-- Improve workflow quality through organized review
-
 ## About Me
 
 I am a Data Quality and Operations professional with experience in documentation review, records accuracy, quality assurance, customer support QA, data verification, and process improvement.
 
-My work focuses on reviewing information for accuracy, completeness, consistency, and clear documentation so teams can make better decisions and reduce preventable errors.
+My work focuses on reviewing information for accuracy, completeness, consistency, and clear documentation so teams can reduce preventable errors and improve workflow quality.
 
 ## Note
 
