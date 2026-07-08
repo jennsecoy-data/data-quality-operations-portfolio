@@ -1,0 +1,11 @@
+Week,KPI Area,Target,Actual,Status,Notes
+Week 1,Records Accuracy,95%,98%,On Track,Most records matched source details
+Week 1,Documentation Completeness,95%,94%,Needs Review,A few records were missing support notes
+Week 1,Timesheet Compliance,95%,96%,On Track,Most entries submitted on time
+Week 1,Follow-Up Closure,90%,88%,Needs Review,Two items pending additional verification
+Week 1,Repeated Issues,0,2,Needs Review,Formatting inconsistency and missing status notes
+Week 2,Records Accuracy,95%,99%,On Track,Accuracy improved after follow-up corrections
+Week 2,Documentation Completeness,95%,97%,On Track,Most required fields and notes were complete
+Week 2,Timesheet Compliance,95%,95%,On Track,Submissions met expected compliance target
+Week 2,Follow-Up Closure,90%,92%,On Track,Most open items were resolved by review deadline
+Week 2,Repeated Issues,0,1,Needs Review,One formatting pattern still requires monitoring
