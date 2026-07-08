@@ -1,0 +1,11 @@
+Issue ID,Category,Issue Description,Severity,Recommended Action,Status
+ISS-001,Completeness,Required field missing from record,Medium,Add missing field and recheck,Needs Correction
+ISS-002,Consistency,Date format differs across entries,Low,Standardize date format,Needs Review
+ISS-003,Accuracy,Record detail does not match source,High,Correct detail and verify source,Needs Correction
+ISS-004,Documentation,Status note is unclear,Medium,Rewrite note with clear action,Needs Review
+ISS-005,Process,Same formatting issue appears repeatedly,Low,Add formatting checkpoint to review process,Open
+ISS-006,Compliance,Timesheet entry submitted after deadline,Medium,Document exception and follow up,Needs Review
+ISS-007,Records Accuracy,Owner name missing from tracking log,Medium,Add owner name and verify record,Needs Correction
+ISS-008,Follow-Up,Correction made but not rechecked,Medium,Complete second review pass,Needs Review
+ISS-009,Formatting,Capitalization differs across related entries,Low,Standardize capitalization,Needs Review
+ISS-010,Quality Review,Final status does not match issue status,High,Correct final status before closing,Needs Correction
