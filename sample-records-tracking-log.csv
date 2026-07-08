@@ -1,0 +1,11 @@
+Record ID,Record Type,Owner,Date Received,Required Fields Complete,Status,Issue Found,Follow-Up Needed,Final Review Status
+REC-001,Customer Record,J. Secoy,2026-07-01,Yes,Reviewed,None,No,Complete
+REC-002,Inventory Record,J. Secoy,2026-07-01,No,Needs Review,Missing status note,Yes,Pending Correction
+REC-003,Compliance Record,J. Secoy,2026-07-02,Yes,Reviewed,Date format inconsistent,Yes,Needs Review
+REC-004,Support Record,J. Secoy,2026-07-02,Yes,Reviewed,None,No,Complete
+REC-005,Operations Record,J. Secoy,2026-07-03,No,Needs Correction,Missing required field,Yes,Pending Correction
+REC-006,Documentation Record,J. Secoy,2026-07-03,Yes,Reviewed,Unclear status note,Yes,Needs Review
+REC-007,Quality Review Record,J. Secoy,2026-07-04,Yes,Reviewed,None,No,Complete
+REC-008,Training Record,J. Secoy,2026-07-04,No,Needs Correction,Missing reviewer initials,Yes,Pending Correction
+REC-009,Workflow Record,J. Secoy,2026-07-05,Yes,Reviewed,Formatting inconsistency,Yes,Needs Review
+REC-010,Audit Support Record,J. Secoy,2026-07-05,Yes,Reviewed,None,No,Complete
